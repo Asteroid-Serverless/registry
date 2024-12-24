@@ -5,7 +5,7 @@
 ## 目录结构
 
 ```
-serverless-registry/
+registry/
 │
 ├── init.py
 ├── server.py
@@ -20,8 +20,8 @@ serverless-registry/
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/your-repo/serverless-registry.git
-cd serverless-registry
+git clone https://github.com/Asteroid-Serverless/registry.git
+cd registry
 ```
 
 2. 创建虚拟环境：
