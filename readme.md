@@ -1,0 +1,9 @@
+bottle==0.12.23
+bcrypt==4.0.1
+PyJWT==2.6.0
+redis==4.5.4
+rq==1.13.0
+SQLAlchemy==2.0.12
+mysql-connector-python==8.0.33
+gunicorn==20.1.0
+requests==2.28.2
