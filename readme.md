@@ -12,9 +12,10 @@ registry/
 ├── init.py
 ├── server.py
 ├── test.py
-├── Dockerfile
+├── dockerfile
 ├── requirements.txt
-└── README.md
+├── readme.md
+└── readme_en.md
 ```
 
 ## 初始化
